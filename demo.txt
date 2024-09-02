@@ -2,3 +2,6 @@ git checkout -b
 git log
 git log --oneline
 git clone
+git pull
+git fetch
+git push
